@@ -1,0 +1,12 @@
+body {
+	background-color: #222;
+}
+
+#canvasHolder {
+	margin: 100px auto;
+	width: 1200px;
+	height: 800px;
+	border: 1px solid #333;
+	background-color: #111;
+	border-radius: 9px;
+}
